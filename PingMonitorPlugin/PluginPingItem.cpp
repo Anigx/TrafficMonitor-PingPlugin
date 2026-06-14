@@ -14,7 +14,7 @@ const wchar_t* CPluginPingLatencyItem::GetItemId() const
 
 const wchar_t* CPluginPingLatencyItem::GetItemLableText() const
 {
-    return L"PING";
+    return L"PING:";
 }
 
 const wchar_t* CPluginPingLatencyItem::GetItemValueText() const
@@ -54,7 +54,7 @@ const wchar_t* CPluginPacketLossItem::GetItemId() const
 
 const wchar_t* CPluginPacketLossItem::GetItemLableText() const
 {
-    return L"LOSS";
+    return L"LOSS:";
 }
 
 const wchar_t* CPluginPacketLossItem::GetItemValueText() const
