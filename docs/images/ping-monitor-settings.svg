@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="377" height="217" viewBox="0 0 377 217" role="img" aria-label="Ping Monitor settings dialog">
+  <rect width="377" height="217" fill="#f0f0f0"/>
+  <rect x="0" y="0" width="377" height="31" fill="#f7f7f7"/>
+  <text x="8" y="20" fill="#111" font-family="Segoe UI, Arial, sans-serif" font-size="12">Ping Monitor settings</text>
+  <text x="363" y="20" fill="#111" font-family="Segoe UI, Arial, sans-serif" font-size="18">×</text>
+
+  <text x="13" y="60" fill="#000" font-family="Segoe UI, Arial, sans-serif" font-size="12">Server IP / host:</text>
+  <rect x="157" y="43" width="213" height="26" fill="#ffffff" stroke="#d6d6d6"/>
+  <text x="162" y="60" fill="#000" font-family="Segoe UI, Arial, sans-serif" font-size="12">1.1.1.1</text>
+  <line x1="157" y1="68" x2="370" y2="68" stroke="#0078d7" stroke-width="2"/>
+
+  <text x="13" y="104" fill="#000" font-family="Segoe UI, Arial, sans-serif" font-size="12">Timeout (ms):</text>
+  <rect x="157" y="87" width="95" height="26" fill="#ffffff" stroke="#d6d6d6"/>
+  <text x="162" y="104" fill="#000" font-family="Segoe UI, Arial, sans-serif" font-size="12">1000</text>
+
+  <text x="13" y="147" fill="#000" font-family="Segoe UI, Arial, sans-serif" font-size="12">Loss window:</text>
+  <rect x="157" y="129" width="95" height="26" fill="#ffffff" stroke="#d6d6d6"/>
+  <text x="162" y="147" fill="#000" font-family="Segoe UI, Arial, sans-serif" font-size="12">20</text>
+
+  <rect x="182" y="180" width="86" height="24" rx="4" fill="#ffffff" stroke="#0078d7"/>
+  <text x="216" y="196" fill="#000" font-family="Segoe UI, Arial, sans-serif" font-size="12">OK</text>
+  <rect x="284" y="180" width="86" height="24" rx="4" fill="#ffffff" stroke="#c8c8c8"/>
+  <text x="315" y="196" fill="#000" font-family="Segoe UI, Arial, sans-serif" font-size="12">Cancel</text>
+</svg>

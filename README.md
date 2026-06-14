@@ -10,6 +10,16 @@ Ping Monitor is a standalone plugin for [TrafficMonitor](https://github.com/zhon
 - Hover information shows the target server, last result, recent loss window, total sent packets, total lost packets, and timeout.
 - A plugin options dialog lets you set the server IP or host name, timeout, and packet-loss sample window.
 
+## Screenshots
+
+Ping latency and packet loss display:
+
+![Ping latency and packet loss display](docs/images/ping-monitor-display.svg)
+
+Plugin settings dialog:
+
+![Ping Monitor settings dialog](docs/images/ping-monitor-settings.svg)
+
 ## Installation
 
 1. Build `PingMonitorPlugin\PingMonitorPlugin.vcxproj` with Visual Studio 2022 or MSBuild.
