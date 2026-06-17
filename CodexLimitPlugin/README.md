@@ -8,6 +8,16 @@ TrafficMonitor plugin that shows OpenAI Codex usage limits in the taskbar.
 - `Codex W`: remaining weekly Codex limit percentage and remaining hours.
 - Tooltip: reset timestamp and full countdown for both limits.
 
+## Screenshots
+
+Taskbar display:
+
+![Codex Limit Monitor taskbar display](../docs/images/codex-limit-display.svg)
+
+Tooltip details:
+
+![Codex Limit Monitor tooltip](../docs/images/codex-limit-tooltip.svg)
+
 ## Requirements
 
 - TrafficMonitor for Windows.

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="205" height="79" viewBox="0 0 205 79" role="img" aria-label="Codex Limit Monitor taskbar display">
+  <rect width="205" height="79" fill="#050505"/>
+  <rect y="0" width="205" height="38" fill="#0785d5"/>
+  <rect y="39" width="205" height="40" fill="#2b103c"/>
+  <text x="32" y="56" fill="#00ff4a" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">Codex 5h:</text>
+  <text x="105" y="56" fill="#00ff4a" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">99% 5.0h</text>
+  <text x="32" y="72" fill="#00ff4a" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">Codex W:</text>
+  <text x="105" y="72" fill="#00ff4a" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">94% 138.7h</text>
+</svg>

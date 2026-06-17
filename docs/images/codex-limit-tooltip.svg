@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="232" height="160" viewBox="0 0 232 160" role="img" aria-label="Codex Limit Monitor tooltip">
+  <rect x="0.5" y="0.5" width="231" height="159" fill="#fffef5" stroke="#b8b8b8"/>
+  <g fill="#333" font-family="Segoe UI, Arial, sans-serif" font-size="12">
+    <text x="8" y="18">ChatGPT Codex limits</text>
+    <text x="8" y="38">5-hour limit: 99% 5.0h</text>
+    <text x="8" y="58">5-hour reset: 2026-06-17 19:31:46</text>
+    <text x="8" y="78">5-hour remaining: 4:59:27</text>
+    <text x="8" y="98">Weekly limit: 94% 138.7h</text>
+    <text x="8" y="118">Weekly reset: 2026-06-23 09:15:38</text>
+    <text x="8" y="138">Weekly remaining: 138:43:19</text>
+  </g>
+</svg>
